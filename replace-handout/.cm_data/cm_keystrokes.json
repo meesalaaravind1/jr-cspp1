@@ -1,0 +1,118 @@
+{
+    "replace.py": [
+        {
+            "operation": "PASTE",
+            "lines": 5,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:34:29",
+            "keyStrokeInfo": "l=s1.split(s2)\ns=''\nfor i in range(len(l)-1):\n    s+=l[i]+s3\ns+=l[-1]",
+            "position": "2,2"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:34:29",
+            "keyStrokeInfo": "\t",
+            "position": "3,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:57",
+            "keyStrokeInfo": "\t",
+            "position": "7,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:57",
+            "keyStrokeInfo": "r",
+            "position": "7,2"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:57",
+            "keyStrokeInfo": "e",
+            "position": "7,3"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:58",
+            "keyStrokeInfo": "t",
+            "position": "7,4"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:58",
+            "keyStrokeInfo": "u",
+            "position": "7,5"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:58",
+            "keyStrokeInfo": "e",
+            "position": "7,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:58",
+            "keyStrokeInfo": "n",
+            "position": "7,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:59",
+            "keyStrokeInfo": "",
+            "position": "7,7"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:59",
+            "keyStrokeInfo": "",
+            "position": "7,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:59",
+            "keyStrokeInfo": "r",
+            "position": "7,6"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:59",
+            "keyStrokeInfo": "n",
+            "position": "7,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:37:59",
+            "keyStrokeInfo": " ",
+            "position": "7,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:38:00",
+            "keyStrokeInfo": "s",
+            "position": "7,9"
+        }
+    ],
+    "eval.py": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Mon Oct 12 2020 17:34:46",
+            "keyStrokeInfo": "",
+            "position": "35,23"
+        }
+    ]
+}

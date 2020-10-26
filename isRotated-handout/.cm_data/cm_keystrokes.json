@@ -1,0 +1,111 @@
+{
+    "isRotated.py": [
+        {
+            "operation": "PASTE",
+            "lines": 7,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:38",
+            "keyStrokeInfo": "def isrotated(w1, w2):\n\tfor i in range(len(w1)):\n\t\tif (w1[i:]+w1[:i] == w2) or (w2[i:]+w2[:i] == w1):\n\t\t\treturn True\n\tif w1[::-1]==w2:\n\t\treturn True\n\treturn False",
+            "position": "5,2"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:38",
+            "keyStrokeInfo": "",
+            "position": "13,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:38",
+            "keyStrokeInfo": "    ",
+            "position": "13,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 4,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:38",
+            "keyStrokeInfo": "for i in range(str1):\n\t\tif(rotateRight(str1) == str2):\n\t\treturn True\n\t\treturn False",
+            "position": "5,2"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 7,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:38",
+            "keyStrokeInfo": "def isrotated(w1, w2):\n\tfor i in range(len(w1)):\n\t\tif (w1[i:]+w1[:i] == w2) or (w2[i:]+w2[:i] == w1):\n\t\t\treturn True\n\tif w1[::-1]==w2:\n\t\treturn True\n\treturn False",
+            "position": "4,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 5,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:15:39",
+            "keyStrokeInfo": "def isRotated(str1, str2):\n\tfor i in range(str1):\n\t\tif(rotateRight(str1) == str2):\n\t\treturn True\n\t\treturn False",
+            "position": "4,1"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 7,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "def isrotated(w1, w2):\n\tfor i in range(len(w1)):\n\t\tif (w1[i:]+w1[:i] == w2) or (w2[i:]+w2[:i] == w1):\n\t\t\treturn True\n\tif w1[::-1]==w2:\n\t\treturn True\n\treturn False",
+            "position": "4,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "",
+            "position": "4,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "R",
+            "position": "4,7"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "+",
+            "position": "2,22"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "s",
+            "position": "2,23"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "[]",
+            "position": "2,24"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "0",
+            "position": "2,25"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "",
+            "position": "12,1"
+        }
+    ],
+    "eval.py": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Thu Oct 15 2020 18:16:36",
+            "keyStrokeInfo": "",
+            "position": "35,23"
+        }
+    ]
+}
